@@ -97,18 +97,12 @@ ML API endpoint
 
 ### Setup Steps
 
-1. **Clone repository**
-```bash
-git clone https://github.com/your-org/pmcopilot-backend.git
-cd pmcopilot-backend
-```
-
-2. **Install dependencies**
+1. **Install dependencies**
 ```bash
 npm install
 ```
 
-3. **Setup environment variables**
+2. **Setup environment variables**
 ```bash
 cp .env.example .env
 ```
@@ -133,22 +127,17 @@ PORT=3000
 NODE_ENV=development
 ```
 
-4. **Run database migrations**
+3. **Run database migrations**
 ```bash
 npx prisma migrate dev
 ```
 
-5. **Generate Prisma client**
+4. **Generate Prisma client**
 ```bash
 npx prisma generate
 ```
 
-6. **(Optional) Seed initial data**
-```bash
-npx prisma db seed
-```
-
-7. **Start development server**
+5. **Start development server**
 ```bash
 npm run dev
 ```
