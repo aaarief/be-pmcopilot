@@ -6,7 +6,7 @@ Berikut repository berisi readme.md untuk mereplikasi langkah-langkah pembuatan 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-5.0+-2D3748.svg)](https://www.prisma.io/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 
 Backend API untuk sistem **Predictive Maintenance Copilot** yang mengintegrasikan Machine Learning prediction, automated ticketing, dan AI chatbot assistant untuk monitoring kesehatan mesin industri secara real-time.
 
